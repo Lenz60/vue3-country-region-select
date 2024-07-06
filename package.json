@@ -1,5 +1,5 @@
 {
-  "name": "vue3-country-region-select-modified",
+  "name": "vue3-country-region-select-mod",
   "version": "1.0.3",
   "description": "A Country select component and Region select component for Vue 3, forked from the original \"vue-country-region-select\" project (Vue 2). Work together and standalone. and forked from https://github.com/isvidler/vue3-country-region-select/tree/master to fix prevent accessing $i18n during render and fix missing autocomplete prop based on the pull request in the master",
   "repository": "https://github.com/isvidler/vue3-country-region-select",
